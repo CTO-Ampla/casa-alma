@@ -1,1 +1,1 @@
-[![pages-build-deployment](https://github.com/CTO-Ampla/casa-alma/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CTO-Ampla/casa-alma/actions/workflows/pages/pages-build-deployment)
+nothing ok
