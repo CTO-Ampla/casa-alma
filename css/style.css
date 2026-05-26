@@ -770,15 +770,21 @@ img {
 
 .footer-socials a {
   color: var(--cream-dark);
-  font-size: 0.75rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
   padding: 0.5rem;
-  transition: color 0.3s;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-socials a svg {
+  width: 22px;
+  height: 22px;
 }
 
 .footer-socials a:hover {
   color: var(--gold);
+  transform: translateY(-2px);
 }
 
 .footer-copy {
